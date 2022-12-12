@@ -1,0 +1,504 @@
+pt:
+  admin:
+
+    ar: Árabe
+    en: Inglês
+    es: Espanhol
+    ca: Catalão
+    fr: Francês
+    ru: Russo
+    nl: Holandês
+    it: Italiano
+    de: Alemão
+    pt: Português
+    vi: Vietnamita
+    tr: Turco
+    hi: Hindu
+    ko: Coreano
+    bg: Búlgaro
+    street: Rua
+    streetAddress: Morada
+    streetNumber: Número de porta
+    city: Cidade
+    postCode: Código Postal
+    region: Região
+    zone: Zona
+    locality: Localidade
+    country: País
+
+    save: Guardar
+    cancel: Cancelar
+    edit: Editar
+    preview: Pré-visualizar
+    close: Fechar
+    addLogo: Adicionar Logotipo
+    addPhotos: Adicionar Fotos
+    create: Criar
+    delete: Eliminar
+    show: Mostrar
+    hide: Esconder
+    logo: Logotipo
+    aboutUsPhoto: Foto sobre nós
+    addAboutUsPhoto: Adicionar foto sobre nós
+
+    pages:
+      aboutUs: Sobre nós
+      sell: Vender
+      landing: Principal
+      legal: Legal
+    pageSections:
+      notEditable:
+        Esta secção não pode ser editada
+      homeSearchComponent:
+        title: Barra de pesquisa
+        info: Habilitar pesquisa de propriedade na página principal
+      contactUsFormAndMap:
+        title: Formulário e mapa
+        info: Formulário de contacto e mapa
+      pageTitle: Título da paǵina
+      services:
+        title: Serviços oferecidos
+        info: Breve descrição dos serviços oferecidos
+      people:
+        title: A sua equipa
+        info: Informação sobre a sua equipa
+      rawHtml:
+        title: Conteúdo HTML
+        info: Pode colocar conteúdo HTML aqui
+      topRentals:
+        title: Top de arrendamentos
+        info: Lista de propriedades para arrendamento
+      topSales:
+        title: Top de vendas
+        info: Lista de propriedades para venda
+      contactUsForm:
+        title: Formulário de contacto
+        info: Formulário para permitir o envio de mensagens por parte dos visitantes
+      ourAgency:
+        title: Sobre a sua agência
+        info: Um pequeno texto sobre a sua agência
+      landingHero:
+        title: Cabeçalho principal
+        info: Imagem grande e texto realçando o seu negócio
+    editor:
+      pickPhoto: Escolher foto
+      uploadPhoto: Carregar foto
+
+    navbar:
+      home: "Principal"
+      admin: "Admin"
+      aboutUs: "Sobre Nós"
+      sell: "Venda"
+      buy: "Compra"
+      rent: "Aluguel"
+      contactUs: "Contacto"
+      legalAdvice: "Aviso legal"
+      privacyPolicy: "Política de privacidade"
+
+    btnLabels:
+      importTranslations: Importar traduções
+      importSiteContent: Importar conteúdo do website
+      setThemePrompt: Definir como tema do website
+      activatedThemeInfo: Tema do website ativo atualmente
+
+    info:
+      defaultCurrency: Será apenas aplicado às novas propriedades adicionadas
+      defaultAreaUnit: Será apenas aplicado às novas propriedades adicionadas
+      recPropPhotoSize: O tamanho recomendado para as fotografias é 800px X 500px,
+      recCarouselPhotoSize: O tamanho recomendado para as imagens de carrosel é 900px X 400px,
+      recLogoPhotoSize: O tamanho recomendado para o logotipo é 120px X 80px,
+      orderByDragging: Arraste para ordenar - a primeira será a fotografia principal.
+
+    webContentLabels:
+      suffixEn: em Inglês
+      suffixEs: em Espanhol
+      suffixAr: em Árabe
+      suffixFr: em Francês
+      suffixIt: em Italiano
+      suffixPt: em Português
+      suffixDe: em Alemão
+      suffixRu: em Russo
+      suffixCa: em Catalão
+      suffixNl: em Holandês
+      suffixVi: em Vietnamita
+      suffixTr: em Turco
+      suffixPl: em Polaco
+      suffixRo: em Romeno
+      suffixKo: em Coreano
+      suffixBg: em Búlgaro
+      privacyPolicy: Política de privacidade
+      legalAdvice: Aviso Legal
+      # landingcarousel: Text for carousel image
+      # cac1: Column 1
+      # cac2: Column 2
+      # cac3: Column 3
+      # landingPageHero: Content for the main page
+      # tagLine: Tag Line
+      aboutUs: Sobre nós
+      footerInfo: Conteúdo extra do rodapé
+
+    siteSections:
+      aboutUs: Sobre nós
+      contactUs: Contacto
+      buy: Comprar
+      rent: Arrendar
+      sell: Vender
+
+    ioSections:
+      fromMls: Import de MLS
+      fromUpload: Importar de ficheiro
+      fromWebpage: Importar de página web
+
+
+
+    properties: Propriedades
+
+    prompts:
+      fixErrors: Por favor corrija os seguintes erros
+
+    todos:
+      createContent: Criar conteúdo
+      companyDetails: Defina os detalhes da sua empresa
+
+    locationTab:
+      confirmAddress: Confirmar nova localização
+
+    agencySections:
+      general: Detalhes da agência
+      location: Localização
+      user: Detalhes do utilizador
+
+    siteLayout:
+      wide: Largo
+      boxed: Ajustado
+
+    propertySections:
+      general: Geral
+      location: Localização
+      text: Texto
+      extras: características
+      photos: Fotos
+      sale: Venda / Arrendamento
+      owner: Dono
+
+    propertyGeneralSections:
+      sale: Venda
+      longtermRental: Arrendamento de longo prazo
+      seasonalRental: Arrendamento sazonal
+      visibility: Visibilidade
+      generalData: Dados Gerais
+      characteristics: Características
+      portals: Portais Web
+      extras: Características
+
+    translationsSections:
+      extras: Características
+      propertyTypes: Tipos de propriedade
+      propertyOrigins: Origens da propriedade
+      propertyStates: Estados da propriedade
+      propertyLabels: Etiquetas de propriedade
+      provinces: Provincias
+
+    toolTips:
+      forSale: Seleccione se a propriedade estiver disponível para venda
+      priceSaleCurrent: Preço de venda atual
+      saleDiscount: Desconto
+      priceSaleOriginal: Preço de venda original
+      longTermRental: Seleccione 'Sim' se a propriedade estiver disponível para arrendamento de longo prazo
+      priceRentalMonthlyCurrent: Preço de arrendamento atual
+      priceRentalMonthlyOriginal: Preço de arrendamento original
+
+      addNewEntry: Adicionar novo item
+      visible: Seleccione 'Sim' para publicar a propriedade no website
+      highlighted: Seleccione 'Sim' para destacar a propriedade no website
+      seasonalRental: Seleccione 'Sim' se a propriedade é alugada sazonalmente
+      ref: Número de referência da propriedade
+
+    alerts:
+      changesDetected: Existem alterações por guardar.
+      deletingProperty: Tem a certeza que quer eliminar esta propriedade? Esta ação não pode ser revertida.
+      navigatingFromChanges: Tem alterações por guardar. Por favor guarde as alterações.
+      visibleProperties: Estas propriedades estão visíveis no seu website
+      hiddenProperties: Estas propriedades não serão mostradas no seu website
+      clickMapToUpdate: Clique no mapa para seleccionar a morada ou escreva diretamente em baixo.
+
+    cards:
+      website: Website
+      websitePrompt: Gerir Website
+      websiteLink: Ir para painel de controlo web
+      properties: Propriedades
+      propertiesPrompt: Gerir Propriedades
+      propertiesLink: Ir para propriedades
+    tasks:
+      addProperty: Adicionar propriedade
+      addPropertyPrompt: propriedades / Adicionar propriedades
+      manageProperties: Gerir propriedades
+      managePropertiesPrompt: Propriedades / Editar propriedade
+      changeLogo: Editar logotipo, linguagens e aparência
+      changeLogoPrompt: Configuração Web
+      changeLang: Alterar linguagem web
+      changeLangPrompt: Configuração Web
+      changeLegalText: Editar texto 'Legal'
+      manageLandingCarousel: Editar página inicial
+      changeAboutUsText: Mudar texto 'Sobre nós'
+      managePropertyTypes: Gerir tipos de propriedades
+      managePropertyExtras: Gerir características das propriedades
+
+    editWebsite: Editar Website
+    settingsForWebsite: Configurações do Website
+    contentForWebsite: Conteúdo para o Website
+    sectionsForWebsite: Secções do Website
+    themesForWebsite: Temas do Website
+    importExport: Importar e exportar dados
+    returnToWebsite: Voltar à web
+    settingsForProperties: Configurações das propriedades
+    returnToProperties: Voltar às propriedades
+    addProperty: Adicionar propriedade
+    addClient: Adicionar cliente
+    newProperty: Nova Propriedade
+    newClient: Novo Cliente
+    propertiesList: Lista de propriedades
+    clientsList: Lista de clientes
+
+    inTabLabels:
+      topNav: Navegação
+      footer: Rodapé
+      currency: Moeda
+      colors: Cores
+      socialLinks: Redes sociais
+      siteLayout: Modo de visualização
+      colorFooterBg: Côr de fundo do rodapé
+      colorFooterMainText: Côr principal do texto de rodapé
+      colorFooterSecText: Côr secundária do texto de rodapé
+      colorPrimary: Cor principal
+      colorSecondary: Cor secundária
+      colorActions: Acções de côr
+      supportedLanguages: Idiomas
+      visibility: Visibilidade
+    adminSections:
+      pages: Páginas
+      about: Sobre
+      agencyDetails: Agência
+      clientes: Clientes
+      content: Página
+      import: Importar Dados
+      labels: Etiquetas
+      list: Listagem
+      properties: Imóveis
+      quit: Ir para a página
+      settings: Definições
+      start: Início
+      translations: Traduções
+      websiteContent: Conteúdo
+      websiteSettings: Definições
+
+    btnLabels:
+      activatedThemeInfo: Tema da página ativo
+      importSiteContent: Importar conteúdo para a página
+      importTranslations: Importar traduções
+      setThemePrompt: Definir como tema da página
+    ca-CA: Catalunha
+
+    chf: Franco Suiço
+    clp: Peso Chileno
+    gbp: Libra esterlina
+    hkd: Dólar de Hong Kong
+    pln: Zloti Polaco
+    ron: Leu Romeno
+    ngn: Naira Nigeriano
+    ghs: Cedi do Gana
+    dkk: Coroa Dinamarquesa
+    czk: Coroa Checa
+    sek: Coroa Sueca
+    thb: Baht Tailandês
+    mad: Dirham Marroquino
+    egp: Libra egípcia
+    eur: Euro
+    zar: Rand Sul Africano
+    usd: Dólar Americano
+    brl: Real Brasileiro
+    cad: Dólar Canadiano
+    ars: Peso Argentino
+    aud: Dólar Australiano
+    mxn: Peso Mexicano
+    inr: Rupia Indiana
+    cny: Renminbi Chinesa
+    rub: Rublo Russo
+    vnd: Dong Vietnamita
+    try: Lira Turca
+
+    de-DE: Alemanha
+    en-UK: Reino Unido
+    en-US: Estados Unidos
+    es-CL: Chile
+    es-ES: Espanha
+    es-MX: México
+    ko-KR: Coreia
+    nl-Nl: Holanda
+    nl-NL: Holanda
+    pl-PL: Polónia
+    ro-RO: Roménia
+    pl: Polaco
+    ro: Romeno
+
+    'false': falso
+    fi-FI: Finlândia
+    fieldLabels:
+      defaultLocale: Linguagem por defeito do website
+      areaUnit: Unidade de Área
+      codigoPostal: Código Postal
+      companyName: Nome da Empresa
+      constructedArea: "Área de construção"
+      countBathrooms: Casas de Banho
+      countBedrooms: Quartos
+      currency: Moeda
+      defaultAreaUnit: Unidade de Área predefinida
+      defaultCurrency: Moeda predefinida
+      deleteProp: Eliminar imóvel
+      descripcionEspanol: Descrição em Espanhol
+      descripcionIngles: Descrição em Inglês
+      description: Descrição
+      direccion: Morada
+      direccionMapa: Morada no Mapa
+      direccionReal: Morada Real
+      documentationId: ID Documentação
+      documentationType: Tipo de Documentação
+      eficienciaEnergia: Certificado Energético
+      email: Endereço de Email
+      estado: Estado
+      fax: Fax
+      firstNames: Primeiro Nome
+      forSale: Para Venda?
+      forSearchWidget: Para caixa de pesquisa
+      garaje: Garagem
+      generalContactEmail: Email de contacto geral
+      hideMap: Esconder Mapa
+      highlighted: Em destaque
+      info:
+        generalContactEmail: Questões colocadas na página de contactos serão enviadas para aqui
+        primaryEmail: Email exibido no topo da página
+        primaryPhone: Telefone exibido no topo da página
+        propertyContactEmail: Perguntas sobre imóveis específicos serão enviadas para aqui
+      label: Etiqueta
+      lastNames: "Último nome"
+      longTermRental: Disponível para arrendamento a longo prazo?
+      longTermRentalDiscount: Desconto de arrendamento a longo prazo
+      mlsCsvFile: Ficheiro csv exportado a partir da sua MLS
+      nationality: Nacionalidade
+      obscureMap: Esconder morada real na página?
+      origen: Origem
+      otherPhone: Outro número de telefone
+      personTitle: Título
+      pickMlsPrompt: Escolher a sua MLS
+      plotArea: "Área do Terreno"
+      precioAlquiler: Preço de Arrendamento
+      precioAntiguo: Preço Original
+      precioTa: Preço (época alta)
+      precioTm: Preço (época média)
+      precioTb: Preço (época baixa)
+      precioVenta: Preço de Venda
+      priceRentalMonthlyCurrent: Valor renda (por mês)
+      priceRentalMonthlyHighSeason: Preço época alta
+      priceRentalMonthlyLowSeason: Preço época baixa
+      priceRentalMonthlyOriginal: Preço original de arrendamento (por mês)
+      priceRentalMonthlyStandardSeason: Preço de arrendamento normal
+      priceSaleCurrent: Preço atual
+      priceSaleOriginal: Preço original
+      primaryEmail: Email principal
+      primaryPhone: Telefone principal
+      propCsvUploadPrompt: Escolher tipo de ficheiro para importação
+      propertyContactEmail: Email de contacto de imóveis
+      pwbCsvFile: Ficheiro csv exportado a partir do PropertyWebBuilder
+      ref: Referência
+      saleDiscount: Desconto de Venda
+      seasonalRental: Disponível para aluguel sazonal?
+      skype: Skype
+      temporadas: Temporadas
+      tipo: Tipo
+      title: Título
+      tituloEspanol: Título em Espanhol
+      tituloIngles: Título em Inglês
+      visible: Visível
+      visibleOnWeb: Visível na página
+      yearConstruction: Ano de construção
+    fr-FR: França
+
+    hi: Indu
+    hi-IN: "Índia"
+
+    info:
+      defaultAreaUnit: Apenas será aplicado a novas propriedades
+      defaultCurrency: Moeda predefinida
+      orderByDragging: Arraste para ordenar - a primeira foto será a principal.
+      recCarouselPhotoSize: Tamanho recomendado para imagens do carousel é de 900px X 400px
+      recLogoPhotoSize: Tamanho recomendado para o logo é 120px X 80px
+      recPropPhotoSize: Tamanho recomendado para a foto é 800px X 500px
+    ioSections:
+      fromMls: Importar da MLS
+      fromUpload: Importar de Ficheiro
+      fromWebpage: Importar de uma Página
+    it-IT: Itália
+    nl-Nl: Holanda
+    'no': Não
+    no-NO: Noruega
+    propertyColHeader:
+      actions: Ações
+      bathrooms: Casas de Banho
+      bedrooms: Quartos
+      highlighted: Em destaque
+      locality: Freguesia
+      price: Preço
+      reference: Referência
+      type: Tipo
+      visible: Vísivel
+      zone: Zona
+    pt-BR: Brasil
+    pt-PT: Portugal
+    ru-RU: Rússia
+
+    siteSections:
+      aboutUs: Sobre nós
+      buy: Comprar
+      contactUs: Contatos
+      rent: Arrendar
+      sell: Vender
+    sqft: Pés quadrados (square feet)
+    sqmt: Metros Quadrados
+    'true': Verdade
+
+    webContentLabels:
+      aboutUs: Sobre Nós
+      cac1: Coluna 1
+      cac2: Coluna 2
+      cac3: Coluna 3
+      footerInfo: Conteúdo extra do rodapé
+      landingPageHero: Conteúdo da página principal
+      landingcarousel: Texto para imagens de carrosel
+      legalAdvice: Informação Legal
+      privacyPolicy: Termos de Privacidade
+      suffixAr: em Árabe
+      suffixDe: em Alemão
+      suffixEn: em Inglês
+      suffixEs: em Espanhol
+      suffixFr: em Francês
+      suffixIt: em Italiano
+      suffixPt: em Português
+      tagLine: Linha de Etiqueta
+    webContentSections:
+      aboutUs: Sobre nós
+      appearance: Aspecto
+      contactInformation: Informação de Contacto
+      contentAreaCols: Colunas
+      footer: Rodapé
+      general: Geral
+      home: Início
+      info:
+        contentAreaCols: Colunas na página principal que dão uma visão geral dos serviços fornecidos
+      landingCarousel: Carrosel da Página Inicial
+      legal: Informação Legal
+      sections: Secções
+      sell: Vender
+      tagLine: Linha de Etiqueta
+      navigation: Navegação
+
+    'yes': Sim
